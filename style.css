@@ -1,0 +1,42 @@
+html. body {
+    margin: 0;
+    padding: 0;
+
+}
+
+body {
+    line-height: 1.65;
+    background-color: #000000;
+}
+
+.container {
+    width: 500px;
+    height: 500px;
+    margin: 50px auto;
+    display: flex;
+    
+}
+
+.card {
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    margin: 100px auto;
+    display: flex;
+    color: aliceblue;
+
+}
+
+.card-body {
+    background-color: #2368ff;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+
+.btn {
+    padding: 20px 40px;
+}
+
